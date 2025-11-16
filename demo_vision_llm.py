@@ -1,4 +1,4 @@
-from receipt_ocr import extract_receipt_data
+from receipt_ocr_vision_llm import extract_receipt_data
 
 import logging
 logger = logging.getLogger("receipt_ocr")

@@ -1,3 +1,5 @@
 venv/
 __pycache__/
 .DS_Store
+.env
+cloud_vision_api_service_account.json
